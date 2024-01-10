@@ -1,0 +1,48 @@
+/application/config/database.php
+# /application/config/config.php
+# /uploads/cars_picture/*
+/application/cache/*
+/application/views/myads.php
+# !/uploads/cars_picture/default.jpg
+# /uploads/customers/*
+# !/uploads/customers/default.jpg
+# /uploads/drivers/*
+# !/uploads/drivers/default.jpg
+# /uploads/products/*
+# !/uploads/products/default.jpg
+# /uploads/users/*
+# !/uploads/users/default.jpg
+# /uploads/supplier/*
+# !/uploads/supplier/default.jpg
+# /uploads/file_dokumen/*
+# !/uploads/file_dokumen/
+# /uploads/purchase/*
+# !/uploads/purchase/default.jpg
+/uploads/qrcode/*
+!/uploads/qrcode/default.png
+
+/uploads/surat_masuk/*
+/uploads/bukti_absensi/*
+!/uploads/bukti_absensi/default.png
+/uploads/lampiran_izin/*
+!/uploads/lampiran_izin/default.png
+/uploads/foto_profil/*
+!/uploads/foto_profil/default.png
+/uploads/foto_sppd/*
+!/uploads/foto_sppd/default.png
+/uploads/signature/*
+!/uploads/signature/default.png
+/uploads/bukti_absensi/*
+!/uploads/bukti_absensi/default.png
+/uploads/bukti_absensi/*
+!/uploads/bukti_absensi/default.png
+
+/uploads/pengumuman_sampul/*
+!/uploads/pengumuman_sampul/default.jpg
+
+
+/assets/ckfinder/core/connector/php/assets/ckfinder/userfiles/*
+assets/ckfinder/config.php
+# assets/ckfinder/config.php
+assets/ckfinder/userfiles/*
+
